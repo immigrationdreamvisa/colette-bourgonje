@@ -1,0 +1,8 @@
+{
+  "name": "Colette Bourgonje School",
+  "description": "Colette Bourgonje School in Rosewood, Saskatoon — a welcoming K–8 Saskatoon Public School inspiring learning, belonging, and community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
